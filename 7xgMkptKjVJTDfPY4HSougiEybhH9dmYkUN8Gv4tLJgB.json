@@ -1,0 +1,18 @@
+{
+    "name": "HORIZON",
+    "symbol": "HRIZN",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/horizoncoin/token/main/logo.png",
+    "tags": [
+        "utility-token",
+        "community",
+        "meme"
+    ],
+    "extensions": {
+        "website": "https://horizon-coin.com",
+        "twitter": "https://x.com/horizoncoin_",
+        "telegram": "https://t.me/HRIZNCOIN",
+        "description": "HORIZON is more than a token \u2014 it's a movement. Our goal is to build a platform where real ones connect, collaborate, and conquer. While influencers live on Discord and Kick, and viral crypto tokens pop on Telegram, Horizon is building its OWN hub \u2014 a space where true hustlers gather. A place where grit meets passion, and effort gets rewarded with more than just short-term gains. Here, money is the mindset, and adversity is the fuel. \ud83d\ude80",
+        "github": "https://github.com/horizoncoin/token"
+    }
+}
